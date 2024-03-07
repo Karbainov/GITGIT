@@ -1,4 +1,4 @@
-﻿namespace GITGITGIT
+namespace GITGITGIT
 {
     internal class Program
     {
@@ -7,6 +7,10 @@
             Console.WriteLine("World!");
             Console.WriteLine("World!");
             Console.WriteLine("World!");
+
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
 
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
