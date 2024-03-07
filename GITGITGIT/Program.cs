@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("World!");
+            Console.WriteLine("World!");
+            Console.WriteLine("World!");
+
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello!");
